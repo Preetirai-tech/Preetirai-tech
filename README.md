@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
-##                                                 <center>I'm Preeti</center> 
+
+## <div align="center">I'm Preeti</div>
 
 
 With the heart of a data wizard and the brain of a number-crunching ninja, I'm ready to tackle any data puzzle that comes my way. Armed with the power of machine learning, computer vision, data visualization, and EDA, I can see patterns where others only see noise. I speak the language of Python, SQL, and statistics fluently and can translate complex data into actionable insights that drive business growth. So, let's join forces and unleash the full potential of data!<br/><br/>
@@ -19,7 +20,7 @@ With the heart of a data wizard and the brain of a number-crunching ninja, I'm r
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Preetirai-tech&theme=dark&hide_border=true)<br/><br/>
 
 
-## My Hobbies and interests -
+## My Hobbies and interests:
 - Chess
 - Sketching
 - Painting
