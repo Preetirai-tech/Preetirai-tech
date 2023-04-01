@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Preeti Rai, a skilled Data Scientist specializing in Machine Learning, Computer Vision, EDA and Data Visualization. With expertise in a range of techniques including Supervised and Unsupervised Machine Learning, and Deep Learning. I'm proficient in several programming languages, regularly leveraging popular data science libraries and frameworks. Overall, I'm highly analytical, detail-oriented, and results-driven with a passion for using data-driven insights to solve complex problems.
+This is Preeti Rai. With the heart of a data wizard and the brain of a number-crunching ninja, I'm ready to tackle any data puzzle that comes my way. Armed with the power of machine learning, computer vision, data visualization, and EDA, I can see patterns where others only see noise. I speak the language of Python, SQL, and statistics fluently and can translate complex data into actionable insights that drive business growth. So, let's join forces and unleash the full potential of data!
 
 
 
