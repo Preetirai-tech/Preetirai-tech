@@ -27,7 +27,9 @@ With the heart of a data wizard and the brain of a number-crunching ninja, I'm r
 - Volleyball<br/><br/>
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preeti-rai-883615101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preeti-rai-883615101)<br/><br/>
+
+[![](https://visitcount.itsvg.in/api?id=Preetirai-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Preetirai-tech&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
