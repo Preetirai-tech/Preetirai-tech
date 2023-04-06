@@ -24,7 +24,8 @@ With the heart of a data wizard and the brain of a number-crunching ninja, I'm r
 - Chess
 - Sketching
 - Painting
-- Volleyball<br/><br/>
+- Volleyball
+- Travelling<br/><br/>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preeti-rai-883615101)<br/><br/>
