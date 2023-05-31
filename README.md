@@ -16,7 +16,9 @@ With the heart of a data wizard and the brain of a number-crunching ninja, I'm r
 
 
 # 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Preetirai-tech&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Preetirai-tech&theme=dark&hide_border=true)<br/><br/>
 
 
